@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bottom Navegation</string>
+    <string name="favorites">Favoritos</string>
+    <string name="music">Musicas</string>
+    <string name="places">Lugares</string>
+    <string name="news">Novidades</string>
+</resources>
