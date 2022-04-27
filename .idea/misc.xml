@@ -5,6 +5,12 @@
       <map>
         <entry key="..\:/Users/Acer/AndroidStudioProjects/BottomNavegation/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/BottomNavegation/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_favorite.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_music.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_news.xml" value="0.1707193515704154" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_place.xml" value="0.1707193515704154" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/BottomNavigation/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.33" />
       </map>
     </option>
   </component>
